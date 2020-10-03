@@ -99,7 +99,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Abril Fatface', cursive; "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -207,13 +207,13 @@ input, select, textarea {
 
 	code {
 		border-radius: 0.3em;
-		font-family: "Courier New", monospace;
+		font-family: 'Abril Fatface', cursive; "Courier New", monospace;
 		font-size: 0.9em;
 	}
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: 'Abril Fatface', cursive; "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -1905,7 +1905,7 @@ input, select, textarea {
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: 'Abril Fatface', cursive; FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2000,7 +2000,7 @@ input, select, textarea {
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: 'Abril Fatface', cursive; FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2771,7 +2771,7 @@ input, select, textarea {
 			.poptrox-popup .loader:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: 'Abril Fatface', cursive; FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2809,7 +2809,7 @@ input, select, textarea {
 			.poptrox-popup .nav-previous:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: 'Abril Fatface', cursive; FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2868,7 +2868,7 @@ input, select, textarea {
 			.poptrox-popup .closer:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: 'Abril Fatface', cursive; FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;

@@ -124,7 +124,7 @@ $size-header-pad: 4em;
 
 	body, input, select, textarea {
 		color: _palette(fg);
-		font-family: _font(family);
+		font-family: 'Abril Fatface', cursive; _font(family);
 		font-size: 16pt;
 		font-weight: _font(weight);
 		line-height: 1.75em;
@@ -233,7 +233,7 @@ $size-header-pad: 4em;
 		background: _palette(border-bg);
 		border-radius: _size(border-radius);
 		border: solid 2px _palette(border);
-		font-family: _font(family-fixed);
+		font-family: 'Abril Fatface', cursive; _font(family-fixed);
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -241,7 +241,7 @@ $size-header-pad: 4em;
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: _font(family-fixed);
+		font-family: 'Abril Fatface', cursive; _font(family-fixed);
 		font-size: 0.9em;
 		margin: 0 0 _size(element-margin) 0;
 
